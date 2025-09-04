@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Article.Api\\Article.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Product.Api\\Product.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

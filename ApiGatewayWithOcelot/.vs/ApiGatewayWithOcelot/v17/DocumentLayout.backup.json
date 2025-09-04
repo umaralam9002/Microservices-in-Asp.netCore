@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|solutionrelative:product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\article.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|solutionrelative:article.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C465A06-A17C-473E-8078-5914342874CF}|Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\ocelot.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C465A06-A17C-473E-8078-5914342874CF}|Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj|solutionrelative:ocelot.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\article.api\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|solutionrelative:article.api\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\article.api\\models\\articleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|solutionrelative:article.api\\models\\articleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\article.api\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E769FA5D-B997-4B30-892E-2E54B5B6B65F}|Article.Api\\Article.Api.csproj|solutionrelative:article.api\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C465A06-A17C-473E-8078-5914342874CF}|Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\ocelot.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C465A06-A17C-473E-8078-5914342874CF}|Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj|solutionrelative:ocelot.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C465A06-A17C-473E-8078-5914342874CF}|Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\ocelot.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C465A06-A17C-473E-8078-5914342874CF}|Ocelot.ApiGateway\\Ocelot.ApiGateway.csproj|solutionrelative:ocelot.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\product.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|solutionrelative:product.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|d:\\web\\microservice in asp.nnet core\\apigatewaywithocelot\\product.api\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D4F51-62CB-40F3-8362-7C23C1A08285}|Product.Api\\Product.Api.csproj|solutionrelative:product.api\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Ocelot.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Ocelot.ApiGateway\\Program.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Ocelot.ApiGateway\\Program.cs",
+              "RelativeToolTip": "Ocelot.ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:45:09.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Ocelot.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ocelot.ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Ocelot.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ocelot.ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T12:43:35.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Article.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Article.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T12:43:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Product.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Product.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T12:42:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Ocelot.ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "Ocelot.ApiGateway\\ocelot.json",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Ocelot.ApiGateway\\ocelot.json",
+              "RelativeToolTip": "Ocelot.ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T12:41:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Article.Api\\Controllers\\ArticleController.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Article.Api\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:36:34.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Article.Api\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "Article.Api\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:34:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleItem.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Models\\ArticleItem.cs",
+              "RelativeDocumentMoniker": "Article.Api\\Models\\ArticleItem.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Article.Api\\Models\\ArticleItem.cs",
+              "RelativeToolTip": "Article.Api\\Models\\ArticleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:34:00.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:31:22.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.Api\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Product.Api\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:26:13.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Models\\ProductItem.cs",
+              "RelativeDocumentMoniker": "Product.Api\\Models\\ProductItem.cs",
+              "ToolTip": "D:\\Web\\MicroService in Asp.nnet core\\ApiGatewayWithOcelot\\Product.Api\\Models\\ProductItem.cs",
+              "RelativeToolTip": "Product.Api\\Models\\ProductItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:25:25.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
